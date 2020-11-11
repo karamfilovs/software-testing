@@ -1,1 +1,2 @@
-alert("Some text");
+alert("New text");
+let x = 5;
