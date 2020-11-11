@@ -1,2 +1,7 @@
 # software-testing
-This is just a demo
+Instructions for starting the framework/applicaiton
+1 
+2
+3
+4
+5
